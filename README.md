@@ -1,4 +1,4 @@
-**Projeto vaga Desenvolvedor Jr
+**Projeto vaga Desenvolvedor Jr**
 
 **O que deve ser feito**
 
