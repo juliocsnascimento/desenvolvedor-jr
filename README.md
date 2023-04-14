@@ -20,5 +20,5 @@ O candidato deverá criar uma aplicação em C# que cumpra os requisitos abaixo:
 1. O código fonte da solução deverá ser enviar para o GITHUB do candidato.
 1. O candidato deverá enviar o link do repositório para o recrutador.
 1. A solução deverá estar livre de erro e compilação.
-1. O prazo para entrega é 06/09/22, as 18:00.
-1. Se houver alguma dúvida, o candidato deverá contatar o recrutador até o dia 05/09/22, as 15:00.
+1. Expecificar a versão que foi utilizada no desenvolvimento.
+1. Se houver alguma dúvida, o candidato deverá contatar o recrutador.
